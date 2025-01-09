@@ -27,3 +27,5 @@ echo "Running Homebrew cleanup..."
 brew cleanup
 
 echo "Homebrew setup is done!"
+
+source(./.macos)
